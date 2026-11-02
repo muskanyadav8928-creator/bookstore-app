@@ -1,0 +1,8 @@
+{
+  "name": "BookStore - Book Store Management System",
+  "description": "Modern digital bookstore for free and premium e-books, computer science titles, curated categories, wishlist, library, and interactive reader preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
